@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=FakeDreamer Kernel by Re-Noroi
+kernel.string=Migu Kernel (FD Fork) by NoCrypt
 do.devicecheck=1
 do.modules=0
 do.systemless=1
